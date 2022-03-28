@@ -4,20 +4,24 @@
 - [➡️ Demo](#️-demo)
 - [➡️ Sobre o projeto](#️-sobre-o-projeto)
 - [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-  - [- Entre outros](#--entre-outros)
+  - [- [x] Async Await](#--x-async-await)
 - [📥 Como usar](#-como-usar)
+- [🚀 Autor](#-autor)
 
 ---
 
 # ➡️ Demo
-Link do projeto em funcionamento: 
+Link do projeto em funcionamento:  = https://snack.expo.dev/@tayse_rosa/github.com-tayserosa-buscacep
 
-Demo = https://snack.expo.dev/@tayse_rosa/github.com-tayserosa-buscacep
+<p align="center">
+<img src="./readme/buscaCep1.png" align="center" width="50%" />
+</p>
 
 ---
 
 # ➡️ Sobre o projeto
-O projeto foi desenvolvido com a intenção de ser uma **base de conhecimento** para minhas consultas futuras, como para outros desenvolvedores JS para relembrar alguma funcionalidade.
+O projeto foi desenvolvido para treinar habilidades de desenvolvimento como por exemplo busca de dados em uma API atraves do React Native.
+
 Neste projeto foi desenvolvido um App para consumir a API Via Cep (https://viacep.com.br/).
 
 ---
@@ -25,13 +29,12 @@ Neste projeto foi desenvolvido um App para consumir a API Via Cep (https://viace
 # 🚀 Tecnologias utilizadas neste projeto
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Expo
-- Javascript
-- Styled Components
-- Navigation Container
-- useState
-- Async Await
-- Entre outros
+- [x] Expo
+- [x] Javascript
+- [x] Styled Components
+- [x] Navigation Container
+- [x] useState
+- [x] Async Await
 ---
 
 # 📥 Como usar
@@ -44,7 +47,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
     $ cd BuscaCep
 
     //Instalar as dependências do projeto
-    $ npm i
+    $ npm install
 
     //Startar o projeto
     $ expo start
@@ -52,4 +55,16 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ``` 
 
 ---
-<h4 align="center"> Desenvolvido por 🚀 Tayse Rosa 🌸 </h4>
+# 🚀 Autor
+
+<a href="https://www.tayserosa.dev">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa" style="border-radius:50%"/>
+ <br />
+ <sub><b>www.tayserosa.dev</b></sub></a> <a href="https://www.tayserosa.dev" title="Tayse Rosa" target="_blank">🚀</a>
+
+
+Feito com ❤️ por Tayse Rosa 🚀
+
+👋🏽 Entre em contato!
+
+![Linkedin Badge](https://img.shields.io/badge/-TayseRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayse-rosa-3b683151/)[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayseRosa/)
