@@ -14,7 +14,9 @@
 Link do projeto em funcionamento:  = https://snack.expo.dev/@tayse_rosa/github.com-tayserosa-buscacep
 
 <p align="center">
+  <a href="https://snack.expo.dev/@tayse_rosa/github.com-tayserosa-buscacep">
 <img src="./readme/buscaCep1.png" align="center" width="50%" />
+</a>
 </p>
 
 ---
