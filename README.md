@@ -4,7 +4,6 @@
 - [➡️ Demo](#️-demo)
 - [➡️ Sobre o projeto](#️-sobre-o-projeto)
 - [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-  - [- [x] Async Await](#--x-async-await)
 - [📥 Como usar](#-como-usar)
 - [🚀 Autor](#-autor)
 
