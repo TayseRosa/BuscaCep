@@ -37,6 +37,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] Navigation Container
 - [x] useState
 - [x] Async Await
+
+
 ---
 
 # 📥 Como usar
