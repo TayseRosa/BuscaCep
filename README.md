@@ -1,15 +1,5 @@
 <h1 align="center"> App Busca cep, para utilização da API Via Cep</h1>
 
-#Índice
-- [➡️ Demo](#️-demo)
-- [➡️ Sobre o projeto](#️-sobre-o-projeto)
-- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-- [📥 Como usar](#-como-usar)
-- [🚀 Autor](#-autor)
-
----
-
-# ➡️ Demo
 Link do projeto em funcionamento:  = https://snack.expo.dev/@tayse_rosa/github.com-tayserosa-buscacep
 
 <p align="center">
